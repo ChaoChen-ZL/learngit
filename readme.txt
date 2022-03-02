@@ -3,3 +3,4 @@ GIT!
 giiiiittt！
 git有一个暂存区
 git可以跟踪修改
+git添加远程库
