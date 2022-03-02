@@ -11,3 +11,5 @@ chuangjian
 =======
 创建了一个新的分支tes
 >>>>>>> test
+
+不使用fast forward 模式
