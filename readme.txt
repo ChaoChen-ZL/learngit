@@ -13,3 +13,6 @@ chuangjian
 >>>>>>> test
 
 不使用fast forward 模式
+
+
+修复bug
