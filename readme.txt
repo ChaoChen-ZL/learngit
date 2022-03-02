@@ -14,3 +14,7 @@ chuangjian
 
 不使用fast forward 模式
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dc39868... 修复bug02
