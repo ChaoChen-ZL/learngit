@@ -1,4 +1,4 @@
-git应该十分实用
+git应该十分实用======================================yes
 GIT!
 giiiiittt！
 git有一个暂存区
@@ -14,4 +14,4 @@ chuangjian
 
 不使用fast forward 模式
 
-正在工作中……
+
